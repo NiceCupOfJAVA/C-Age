@@ -3,8 +3,12 @@ An Age Determining program made in C++
 Welcome to my first Open Project! 
 This is something I've been messing around with for about a week now, and I hope to make it better.
 
-I plan on having some more features implemented. 
-Examples May Include when Age milestones are made 
-Determing what year the user is 16. AKa when they can Drive. 
+I am still learning some thing with C++, so this is just a little project I made to see my code develop and grow with me.
+I hope to learn more things and to add to this as I move along. 
 
-For now, We just see if I can get this to work.
+I plan on having some more features implemented, such as when age milestones are made in a year.
+(You could drive in 2010)
+
+Feel free to alter the code a bit and show me your ideas. 
+
+(Note, everything I do is done on a C++ Shell on a Chromebook)
