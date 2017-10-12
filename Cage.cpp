@@ -6,12 +6,12 @@ int main()
     int age; //Current age
     int year; //Current year
     int num; //Number of years advanced or reversed
-    
+  
     cout << "How old are you? ";
     cin >> age; //User puts in current age
     cout << "What is the year? ";
     cin >> year; //User puts in current year
-    cout << "How far would you like to advance time? ";
+    cout << "How far would you like to advance or reverse time? ";
     cin >> num; //User puts in number of years that will be advanced, can use a negative (-) to reverse time too
    { 
     if (num > 0) // If time is advanced
